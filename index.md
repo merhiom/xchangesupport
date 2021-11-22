@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to the Xchange App support page
 
-You can use the [editor on GitHub](https://github.com/merhiom/xchangesupport/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You will find here a quick tutorial on using the app 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Creating an account
 
-### Markdown
+When you first launch the app, you will need to create an account. To do so simply press on the sign up button.
+From this point you will have three choices, sign up with Google, Facebook or using your own email and password.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Forgot or change password
+If you even forget your password or need to change it for any other reason, you will need to:
+1. Sign out
+2. Click on Login
+3. Click on Get going with Email
+4. Click on Forgot password?
+5. Fill out the prompt with your email and confirm
 
-```markdown
-Syntax highlighted code block
+You should receive an email containing a link to reset your password. Be sure to check the spam folder.
 
-# Header 1
-## Header 2
-### Header 3
+### Sign out from your account
+When you are logged in, from the main page navigate to My Account tab (middle option bottom of the page) and click on the settings icon of the top right.
+You will open a new page which contains a button that will allow you to log out.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/merhiom/xchangesupport/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Listing a book
+Once you are logged in, from the main page on the Home tab (left option bottom of the page) simply click on the plus located on the bottom right. You will need to enter the information of the book aswell as add a picture of it.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+In case you need additional support be sure to send email to the following account: xchangeapp774@gmail.com
